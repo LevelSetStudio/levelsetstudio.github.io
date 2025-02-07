@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Welcome to Level Set Studio"
-  content: "Level Set Studio hasn't launched yet. Check back later!"
+  title: "Welcome to Level Set"
+  content: "We haven't launched yet. Check back later!"
   image: "/images/banner.png"
   button:
     enable: false
